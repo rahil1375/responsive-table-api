@@ -1,0 +1,27 @@
+:root{
+ margin: auto;
+  font-size: 1.2vw;
+}
+
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em 4em 1em 4em;
+  flex-direction: column;
+}
+form{
+  width: 20em;
+}
+form .btn{
+  width: 18.5em;
+}
+.bt{
+  cursor:pointer;
+  font-size:2em!important;
+  width: 2em!important;
+}
+.add-user{
+  width: 23.7vw!important;
+}
